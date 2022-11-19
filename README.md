@@ -3,7 +3,7 @@
 Implementation of the standard calculator, which can be found in the standard applications of each operating system, in C++ in the object-oriented programming paradigm. In addition to basic arithmetic operations such as add/subtract and multiply/divide, supplemented the calculator with the ability to calculate arithmetic expressions by following the order, as well as some mathematical functions (sine, cosine, logarithm, etc.). It also supports the use of the x variable and the graphing of the corresponding function. The calculator has ability to calculate arithmetic expressions by following the order, as well as some mathematical functions (sine, cosine, logarithm, etc.). At last it supports using of the _x_ variable and graphing of the corresponding function.
 
 
-![smartcalc](img/calc.PNG)
+![smartcalc](img/calc.png)
 
 
 ## Implementation of Calculator
